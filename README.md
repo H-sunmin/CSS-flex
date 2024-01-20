@@ -6,7 +6,7 @@
    diplay: flex;
    }
    
-1) flex container 속성
+1) <mark>flex container</mark>속성
    1. flex-direction
       : 아이템 배열 방향
       -row(default): 행, 옆으로 배열
